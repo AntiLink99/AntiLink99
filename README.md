@@ -1,4 +1,4 @@
-# Hello there ![Hi](https://user-images.githubusercontent.com/63516009/203315921-cc24f295-5248-4fd0-a597-32139e4f1998.gif)
+# Hello there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
 Heyho, I'm AntiLink! 🦉
 I work on fun projects mostly related to the VR game Beat Saber in my free time.
